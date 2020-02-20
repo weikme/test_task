@@ -1,0 +1,4 @@
+#Thu Feb 20 02:01:27 EET 2020
+base.0=/Users/testpersoon/AndroidStudioProjects/test_task-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
